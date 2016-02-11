@@ -6,6 +6,7 @@ This PhpStorm Base Project is preconfigured for usage with *phpstorm/phpstorm-ba
 The box and the project includes:
 * PHP 7 interpreter
 * Apache Web Server with configured XDebug
+* MySQL
 * Configured Deployment SFTP server
 * PHPUnit
 * Behat
