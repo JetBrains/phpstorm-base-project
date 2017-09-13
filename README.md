@@ -1,4 +1,4 @@
-[![official JetBrains project](http://jb.gg/badges/official-flat-square.svg)]
+![official JetBrains project](http://jb.gg/badges/official-flat-square.svg)
 # phpstorm-base-project
 
 This box allows you to quickly start your development without need to configure everything from scratch.
