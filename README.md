@@ -1,5 +1,7 @@
 # phpstorm-base-project
 
+[![official JetBrains project](http://jb.gg/badges/official-flat-square.svg)](https://confluence.jetbrains.com/display/ALL/JetBrains+on+GitHub)
+
 This box allows you to quickly start your development without need to configure everything from scratch.
 
 This PhpStorm Base Project is preconfigured for usage with *phpstorm/phpstorm-base-vm* vagrant box.
