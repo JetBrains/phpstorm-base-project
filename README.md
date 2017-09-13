@@ -1,6 +1,5 @@
+[![official JetBrains project](http://jb.gg/badges/official-flat-square.svg)]
 # phpstorm-base-project
-
-[![official JetBrains project](http://jb.gg/badges/official-flat-square.svg)](https://confluence.jetbrains.com/display/ALL/JetBrains+on+GitHub)
 
 This box allows you to quickly start your development without need to configure everything from scratch.
 
